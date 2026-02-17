@@ -1,0 +1,21 @@
+{
+  "name": "ecommerce-project-mangement",
+  "version": "1.0.0",
+  "description": "a project management application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "api",
+    "api",
+    "creation"
+  ],
+  "author": "shakshi",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.8.1"
+  }
+}
